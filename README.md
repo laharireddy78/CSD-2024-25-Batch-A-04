@@ -1,1 +1,3 @@
-# CSM-2024-25-Batch-A-04
+# Tracing the origins: Rumor Source Identification in Social Networks
+**Abstract:**
+In the realm of online information propagation, the rapid spread of rumors and false claims poses significant challenges to both individuals and society at large. This study presents an innovative approach for Rumor Source Identification from Social Networks. Leveraging advanced data analytics and network analysis techniques, we aim to accurately identify the original source of rumors, shedding light on the origins of misinformation. By examining the patterns and dynamics of information dissemination within social networks, our research contributes to the development of robust tools for early detection and mitigation of false information, ultimately bolstering the credibility and trustworthiness of online information sources.
